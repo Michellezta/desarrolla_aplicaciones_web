@@ -4,7 +4,7 @@ include 'conexion.php';
 
 $id = $_GET["id"];
 
-$sql = "DELETE FROM joyas WHERE id =" . $id;
+$sql = "DELETE FROM productos WHERE id =" . $id;
 
 if($conexion->query($sql) === TRUE){
     echo "Se elimino el registro con ID ".$id."<br>";

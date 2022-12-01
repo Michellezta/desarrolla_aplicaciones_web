@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Productos</title>
+    <title>Legos</title>
     <link rel="stylesheet" href="css/bootstrap.css">
     <script src="js/jquery-3.6.1.js"></script>
 </head>
@@ -20,7 +20,7 @@
       <img src="lego 1.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Kit de construcción Harry Potter</h5>
-        <p class="card-text">collar DB Classic en oro blanco de 18kt con diamantes.</p>
+        <p class="card-text">col</p>
       </div>
     </div>
   </div>
@@ -29,7 +29,7 @@
       <img src="lego 2.jpg" class="card-img-top" alt="..."><br>
       <div class="card-body"><br>
         <h5 class="card-title">Kit de construcción-Ajedrez Mágico </h5>
-        <p class="card-text">Anillo Cameron con detalles de cristal.</p>
+        <p class="card-text">gfdgf</p>
       </div>
     </div>
   </div>
@@ -38,7 +38,7 @@
       <img src="lego 3.jpg" class="card-img-top" alt="...">
       <div class="card-body"><br>
         <h5 class="card-title">Home Alone Kit de construccion</h5>
-        <p class="card-text">Anillo de compromiso con un diamante de corte brillante redondo y argolla en platino con diamantes.</p>
+        <p class="card-text">fgbfd</p>
       </div>
     </div>
   </div>
@@ -50,7 +50,7 @@
     </div>
     <footer class="text-center">
         <hr>
-        2022 &copy; jeweler's
+        2022 &copy; jugueteria
     </footer>
     <script src="js/bootstrap.js"></script>
 </body>

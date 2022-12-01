@@ -20,7 +20,7 @@
 
     <?php } else { 
 
-        $sql="SELECT * FROM joyas WHERE nombre LIKE '%" .$_GET["termino"] . "%'";
+        $sql="SELECT * FROM productos WHERE nombre LIKE '%" .$_GET["termino"] . "%'";
         $usuarios = $conexion->query($sql);
         if($usuarios->num_rows == 0) {
             echo "<div class='alert alert-danger'>No existen registros con este termino de búsqueda</div><br><br>";
@@ -34,14 +34,12 @@
                 <th>ID</th>
                 <th>Nombre</th>
                 <th>Precio</th>
-                <th>Material</th>
             </thead>
             <tbody>
                 <?php while($row = $usuarios->fetch_assoc()) { ?>
                     <tr>
                         <td><?php echo $row["nombre"]; ?></td>
                         <td><?php echo $row["precio"]; ?></td>
-                        <td><?php echo $row["material"]; ?></td>
                         <td>
                             <a href="actualizarRegistro.php?id=<?php echo $row["id"]; ?>" class="btn btn-primary">Editar</a>
                             <a href="eliminarRegistro.php?id=<?php echo $row["id"]; ?>" class="btn btn-danger">Eliminar</a>

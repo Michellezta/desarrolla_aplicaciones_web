@@ -4,10 +4,9 @@
 
     $nombre = $_POST["nombre"];
     $precio = $_POST["precio"];
-    $material = $_POST["material"];
 
-    $sql = "INSERT INTO joyas (nombre, precio, material)" .
-    "VALUE ('".$nombre."', '.$precio.', '".$material."')";
+    $sql = "INSERT INTO joyas (nombre, precio,)" .
+    "VALUE ('".$nombre."', '.$precio.', )";
 
     if($conexion->query($sql) === TRUE){
         echo "Registro guardado con Éxito <a href='consultarDatos.php'>Regresar</a>";

@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Productos</title>
+    <title>Hot Wheels</title>
     <link rel="stylesheet" href="css/bootstrap.css">
     <script src="js/jquery-3.6.1.js"></script>
 </head>
@@ -19,17 +19,17 @@
     <div class="card h-100">
       <img src="carros 1.jpg" class="card-img-top" alt="...">
       <div class="card-body">
-        <h5 class="card-title">Collar</h5>
-        <p class="card-text">collar DB Classic en oro blanco de 18kt con diamantes.</p>
+        <h5 class="card-title">Hot Wheels Super Ultimate Garage</h5>
+        <p class="card-text">cvfdcvx</p>
       </div>
     </div>
   </div>
   <div class="col">
     <div class="card h-100">
-      <img src="carros 2.jpg" class="card-img-top" alt="..."><br>
+      <img src="carros 2.jpg" class="card-img-top" alt="...">
       <div class="card-body">
-        <h5 class="card-title">Anillo</h5>
-        <p class="card-text">Anillo Cameron con detalles de cristal.</p>
+        <h5 class="card-title">Hot Wheels Track Builder</h5>
+        <p class="card-text">Ahgfhgfd</p>
       </div>
     </div>
   </div>
@@ -37,8 +37,8 @@
     <div class="card h-100">
       <img src="carros 3.jpg" class="card-img-top" alt="...">
       <div class="card-body">
-        <h5 class="card-title">Anillos de compromiso</h5>
-        <p class="card-text">Anillo de compromiso con un diamante de corte brillante redondo y argolla en platino con diamantes.</p>
+        <h5 class="card-title">Hot Wheels City Ultimate Garage</h5>
+        <p class="card-text">Aetfedsfdf.</p>
       </div>
     </div>
   </div>
@@ -50,7 +50,7 @@
     </div>
     <footer class="text-center">
         <hr>
-        2022 &copy; jeweler's
+        2022 &copy; jugueteria
     </footer>
     <script src="js/bootstrap.js"></script>
 </body>
