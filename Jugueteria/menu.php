@@ -27,20 +27,7 @@
               </div>
             </li>
           </ul>
-          <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-expanded="false">
-                Categorias 
-              </a>
-              <div class="dropdown-menu">
-                <a class="dropdown-item" href="legos.php">Legos</a>
-                <a class="dropdown-item" href="muñecas.php">Muñecas</a>
-                <a class="dropdown-item" href="figuras de accion.php">Figuras de accion</a>
-                <a class="dropdown-item" href="juegos de mesa.php">Juegos de mesa</a>
-                <a class="dropdown-item" href="marvel.php">Marvel</a>
-                <a class="dropdown-item" href="hot Wheels.php">Hot Wheels</a>
-              </div>
-            </li>
-          </ul>
+  
           <form class="form-inline my-2 my-lg-0" method="GET" action="resultadoBusqueda.php">
             <input name="termino" class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
             <button class="btn btn-light" type="submit">Search</button>

@@ -19,16 +19,16 @@
     <div class="card h-100">
       <img src="muñeca 1.jpg" class="card-img-top" alt="...">
       <div class="card-body">
-        <h5 class="card-title">Collar</h5>
+        <h5 class="card-title">Rainbow High Rainbow Vision Sabrina St. Clouds</h5>
         <p class="card-text">collar DB Classic en oro blanco de 18kt con diamantes.</p>
       </div>
     </div>
   </div>
   <div class="col">
     <div class="card h-100">
-      <img src="muñeca 2.jpg" class="card-img-top" alt="..."><br>
+      <img src="muñeca 2.jpg" class="card-img-top" alt="...">
       <div class="card-body">
-        <h5 class="card-title">Anillo</h5>
+        <h5 class="card-title">Rainbow High Shadow Vision Neon Shadow </h5>
         <p class="card-text">Anillo Cameron con detalles de cristal.</p>
       </div>
     </div>
@@ -37,7 +37,7 @@
     <div class="card h-100">
       <img src="muñeca 3.jpg" class="card-img-top" alt="...">
       <div class="card-body">
-        <h5 class="card-title">Anillos de compromiso</h5>
+        <h5 class="card-title">Rainbow High Rainbow Vision Meline Luxe</h5>
         <p class="card-text">Anillo de compromiso con un diamante de corte brillante redondo y argolla en platino con diamantes.</p>
       </div>
     </div>

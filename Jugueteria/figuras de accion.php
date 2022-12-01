@@ -19,7 +19,7 @@
     <div class="card h-100">
       <img src="figuras de acccion 1.jpg" class="card-img-top" alt="...">
       <div class="card-body">
-        <h5 class="card-title">Collar</h5>
+        <h5 class="card-title">Juguete </h5>
         <p class="card-text">collar DB Classic en oro blanco de 18kt con diamantes.</p>
       </div>
     </div>
@@ -28,7 +28,7 @@
     <div class="card h-100">
       <img src="figuras de acccion 2.jpg" class="card-img-top" alt="..."><br>
       <div class="card-body">
-        <h5 class="card-title">Anillo</h5>
+        <h5 class="card-title">Juguete OBI-WAN Kenobi</h5>
         <p class="card-text">Anillo Cameron con detalles de cristal.</p>
       </div>
     </div>
@@ -37,7 +37,7 @@
     <div class="card h-100">
       <img src="figuras de acccion 3.jpg" class="card-img-top" alt="...">
       <div class="card-body">
-        <h5 class="card-title">Anillos de compromiso</h5>
+        <h5 class="card-title">Heavy Assault Stormtrooper</h5>
         <p class="card-text">Anillo de compromiso con un diamante de corte brillante redondo y argolla en platino con diamantes.</p>
       </div>
     </div>
