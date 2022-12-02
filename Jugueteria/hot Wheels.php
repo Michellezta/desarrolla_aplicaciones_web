@@ -21,6 +21,7 @@
       <div class="card-body">
         <h5 class="card-title">Hot Wheels Super Ultimate Garage</h5>
         <p class="card-text">cvfdcvx</p>
+        <a href="index.php" class="btn btn-primary">Comprar</a>
       </div>
     </div>
   </div>
@@ -30,6 +31,7 @@
       <div class="card-body">
         <h5 class="card-title">Hot Wheels Track Builder</h5>
         <p class="card-text">Ahgfhgfd</p>
+        <a href="index.php" class="btn btn-primary">Comprar</a>
       </div>
     </div>
   </div>
@@ -39,6 +41,7 @@
       <div class="card-body">
         <h5 class="card-title">Hot Wheels City Ultimate Garage</h5>
         <p class="card-text">Aetfedsfdf.</p>
+        <a href="index.php" class="btn btn-primary">Comprar</a>
       </div>
     </div>
   </div>
@@ -50,7 +53,7 @@
     </div>
     <footer class="text-center">
         <hr>
-        2022 &copy; jugueteria
+        2022 &copy; Jugueteria
     </footer>
     <script src="js/bootstrap.js"></script>
 </body>

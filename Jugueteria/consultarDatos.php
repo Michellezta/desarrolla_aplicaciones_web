@@ -42,8 +42,8 @@
                             <td><?php echo $row["nombre"]; ?></td>
                             <td><?php echo $row["precio"]; ?></td>
                             <td>
-                                <a href="actualizarRegistro.php?id=<?php echo $row["id"]; ?>" class="btn btn-dark">Editar</a>
-                                <a href="eliminarRegistro.php?id=<?php echo $row["id"]; ?>" class="btn btn-danger">Eliminar</a>
+                                <a href="actualizarRegistro.php?id=<?php echo $row["id"]; ?>" class="btn btn-secondary">Editar</a>
+                                <a href="eliminarRegistro.php?id=<?php echo $row["id"]; ?>" class="btn btn-primary">Eliminar</a>
                             </td>
                         </tr>
                       <?php 
@@ -58,7 +58,7 @@
     </div>
     <footer class="text-center">
         <hr>
-        2022 &copy; jugueteria
+        2022 &copy; Jugueteria
     </footer>
     <script src="js/bootstrap.js"></script>
 </body>

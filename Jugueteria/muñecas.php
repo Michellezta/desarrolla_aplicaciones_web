@@ -21,6 +21,7 @@
       <div class="card-body">
         <h5 class="card-title">Rainbow High Rainbow Vision Sabrina St. Clouds</h5>
         <p class="card-text">cdsdxm.</p>
+        <a href="index.php" class="btn btn-primary">Comprar</a>
       </div>
     </div>
   </div>
@@ -30,6 +31,7 @@
       <div class="card-body">
         <h5 class="card-title">Rainbow High Shadow Vision Neon Shadow </h5>
         <p class="card-text">fvdkncks</p>
+        <a href="index.php" class="btn btn-primary">Comprar</a>
       </div>
     </div>
   </div>
@@ -39,6 +41,7 @@
       <div class="card-body">
         <h5 class="card-title">Rainbow High Rainbow Vision Meline Luxe</h5>
         <p class="card-text">Afdsc</p>
+        <a href="index.php" class="btn btn-primary">Comprar</a>
       </div>
     </div>
   </div>

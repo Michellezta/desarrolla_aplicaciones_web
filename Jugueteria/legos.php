@@ -21,6 +21,7 @@
       <div class="card-body">
         <h5 class="card-title">Kit de construcción Harry Potter</h5>
         <p class="card-text">col</p>
+        <a href="comprar lego 1.php" class="btn btn-primary">Comprar</a>
       </div>
     </div>
   </div>
@@ -30,6 +31,7 @@
       <div class="card-body"><br>
         <h5 class="card-title">Kit de construcción-Ajedrez Mágico </h5>
         <p class="card-text">gfdgf</p>
+        <a href="index.php" class="btn btn-primary">Comprar</a>
       </div>
     </div>
   </div>
@@ -39,6 +41,7 @@
       <div class="card-body"><br>
         <h5 class="card-title">Home Alone Kit de construccion</h5>
         <p class="card-text">fgbfd</p>
+        <a href="comprar lego 1.php" class="btn btn-primary">Comprar</a>
       </div>
     </div>
   </div>
@@ -50,7 +53,7 @@
     </div>
     <footer class="text-center">
         <hr>
-        2022 &copy; jugueteria
+        2022 &copy; Jugueteria
     </footer>
     <script src="js/bootstrap.js"></script>
 </body>

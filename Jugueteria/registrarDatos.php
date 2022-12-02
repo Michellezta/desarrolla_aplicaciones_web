@@ -26,8 +26,8 @@
                     </div>
 
                     <div>
-                        <input type="submit" class="btn btn-dark" value="Registrar">
-                        <a href="consultarDatos.php" class="btn btn-danger">Cancelar</a>
+                        <input type="submit" class="btn btn-secondary" value="Registrar">
+                        <a href="consultarDatos.php" class="btn btn-primary">Cancelar</a>
                     </div>
                 </form>
             </div>
@@ -35,7 +35,7 @@
     </div>
     <footer class="text-center">
         <hr>
-        2022 &copy; jugueteria
+        2022 &copy; Jugueteria
     </footer>
     <script src="js/bootstrap.js"></script>
 </body>

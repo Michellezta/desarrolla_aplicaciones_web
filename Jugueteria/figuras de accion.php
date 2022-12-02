@@ -21,6 +21,7 @@
       <div class="card-body">
         <h5 class="card-title">Emperor Palpatine  </h5>
         <p class="card-text">cofvfc</p>
+        <a href="index.php" class="btn btn-primary">Comprar</a>
       </div>
     </div>
   </div>
@@ -30,6 +31,7 @@
       <div class="card-body">
         <h5 class="card-title">Juguete OBI-WAN Kenobi</h5>
         <p class="card-text">Ahgdfgf</p>
+        <a href="index.php" class="btn btn-primary">Comprar</a>
       </div>
     </div>
   </div>
@@ -39,6 +41,7 @@
       <div class="card-body">
         <h5 class="card-title">Heavy Assault Stormtrooper</h5>
         <p class="card-text">Agdfgd.</p>
+        <a href="index.php" class="btn btn-primary">Comprar</a>
       </div>
     </div>
   </div>
@@ -50,7 +53,7 @@
     </div>
     <footer class="text-center">
         <hr>
-        2022 &copy; jugueteria
+        2022 &copy; Jugueteria
     </footer>
     <script src="js/bootstrap.js"></script>
 </body>
