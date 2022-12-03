@@ -17,10 +17,10 @@
                 <div class="row row-cols-1 row-cols-md-3 g-4">
                 <div class="col">
     <div class="card h-100">
-      <img src="lego 1.jpg" class="card-img-top" alt="...">
+      <img src="lego 1.jpg" class="card-img-top" alt="..."><br>
       <div class="card-body">
         <h5 class="card-title">Kit de construcción Harry Potter</h5>
-        <p class="card-text">col</p>
+        <p class="card-text">Gran modelo construible para exhibir de Fawkes con alas móviles mecánicas.</p>
         <a href="comprar lego 1.php" class="btn btn-primary">Comprar</a>
       </div>
     </div>
@@ -30,18 +30,18 @@
       <img src="lego 2.jpg" class="card-img-top" alt="..."><br>
       <div class="card-body"><br>
         <h5 class="card-title">Kit de construcción-Ajedrez Mágico </h5>
-        <p class="card-text">gfdgf</p>
-        <a href="index.php" class="btn btn-primary">Comprar</a>
+        <p class="card-text">Un encantador set basado en el ajedrez infinitamente entretenido para fans de Harry Potter.</p>
+        <a href="comprarlego2.php" class="btn btn-primary">Comprar</a>
       </div>
     </div>
   </div>
   <div class="col">
     <div class="card h-100">
-      <img src="lego 3.jpg" class="card-img-top" alt="...">
+      <img src="lego 3.jpg" class="card-img-top" alt="..."><br>
       <div class="card-body"><br>
         <h5 class="card-title">Home Alone Kit de construccion</h5>
-        <p class="card-text">fgbfd</p>
-        <a href="comprar lego 1.php" class="btn btn-primary">Comprar</a>
+        <p class="card-text"> LEGO Ideas Home Alone ,con modelos para construir de la casa , casa de árbol y furgoneta </p>
+        <a href="comprarlego3.php" class="btn btn-primary">Comprar</a>
       </div>
     </div>
   </div>
