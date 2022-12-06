@@ -24,11 +24,10 @@
   <path d="M10.97 4.97a.235.235 0 0 0-.02.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-1.071-1.05z"/>
   </svg><br><br>    
     <h2 class="card-title">¡Tu compra ha sido realizada con éxito! </h2><br>
-    <h5 class="card-text">El numero de tu paquete es <a href="#" class="stretched-link">#0027</a></h5><br>
+    <h5 class="card-text">El numero de tu paquete es #0027</h5><br>
     <a href="index.php" class="btn btn-primary btn-lg">Volver ala pagina principal</a>
   </div>
   <div class="card-footer text-muted">
-.
   </div>
 </div>
 <i class="bi bi-check-circle"></i>
