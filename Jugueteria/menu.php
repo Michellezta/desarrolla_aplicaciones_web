@@ -15,7 +15,6 @@
               </a>
               <div class="dropdown-menu">
                 <a class="dropdown-item" href="index.php">Inicio</a>
-                <a class="dropdown-item" href="compra realizada.php">Inicio</a>
                 <a class="dropdown-item" href="consultarDatos.php">Consultar</a>
                 <a class="dropdown-item" href="registrarDatos.php">Registrar juguetes</a>
                 <div class="dropdown-divider"></div>

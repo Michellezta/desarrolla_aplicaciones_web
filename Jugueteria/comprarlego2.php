@@ -22,6 +22,10 @@
     <h3 class="mt-0">Kit de construcción-Ajedrez Mágico</h3>
     <p><small class="text-muted">Código de Producto: 2345</small></p>
     <p>Un encantador set basado en el ajedrez infinitamente entretenido para fans de Harry Potter.</p>
+    <div class="dropdown">
+  <button class="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+    Cantidad
+  </button><br><br>
     <button type="button" class="btn btn-outline-secondary">$1,199</button><br><br>
     <a href="#" class="stretched-link">Cambiar direccion predeterminada</a><br><br>
     <a href="compra realizada.php" class="btn btn-primary stretched-link">Comprar</a>

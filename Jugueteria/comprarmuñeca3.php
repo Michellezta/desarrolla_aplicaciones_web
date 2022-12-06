@@ -22,6 +22,10 @@
     <h3 class="mt-0">Rainbow High Rainbow Vision Meline Luxe</h3>
     <p><small class="text-muted">Código de Producto: 5678</small></p>
     <p>Meline viene vestida con un hermoso vestido de baile con lentejuelas bordadas y detalles de organza, tacones dorados y accesorios. También viene con un segundo atuendo; abrigo largo de piel sintética, vestido dorado y sandalias</p>
+    <div class="dropdown">
+  <button class="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+    Cantidad
+  </button><br><br>
     <button type="button" class="btn btn-outline-secondary">$899</button><br><br>
     <a href="#" class="stretched-link">Cambiar direccion predeterminada</a><br><br>
     <a href="compra realizada.php" class="btn btn-primary stretched-link">Comprar</a>
